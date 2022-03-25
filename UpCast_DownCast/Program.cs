@@ -6,9 +6,9 @@ namespace UpCast_DownCast
     {
         static void Main(string[] args)
         {
-            Celsius celcius = new Celsius(20);
+            Celsius celcius = new Celsius(25);
             Kelvin kelvin = celcius;
-            Console.WriteLine((kelvin.Klv)+" K");
+            Console.WriteLine((kelvin.Degree)+" K");
         }
     }
 }
