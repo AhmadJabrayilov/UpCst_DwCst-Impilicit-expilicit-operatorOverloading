@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\bin\Debug\netcoreapp3.1\UpCast_DownCast.exe
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\bin\Debug\netcoreapp3.1\UpCast_DownCast.deps.json
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\bin\Debug\netcoreapp3.1\UpCast_DownCast.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\bin\Debug\netcoreapp3.1\UpCast_DownCast.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\bin\Debug\netcoreapp3.1\UpCast_DownCast.dll
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\bin\Debug\netcoreapp3.1\UpCast_DownCast.pdb
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.dll
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.pdb
+C:\Users\User\Desktop\HOMETASKS\UpCast_DownCast\UpCast_DownCast\obj\Debug\netcoreapp3.1\UpCast_DownCast.genruntimeconfig.cache
